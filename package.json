@@ -1,0 +1,30 @@
+{
+  "name": "hw-20",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuzzel/homework20.git"
+  },
+  "keywords": [
+    "Q1w2e3r4"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuzzel/homework20/issues"
+  },
+  "homepage": "https://github.com/Yuzzel/homework20#readme",
+  "dependencies": {
+    "css-loader": "^6.2.0",
+    "mini-css-extract-plugin": "^2.2.0",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^12.1.0",
+    "webpack": "^5.49.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
